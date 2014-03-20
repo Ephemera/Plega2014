@@ -27,4 +27,3 @@ while( my $from = recv( SOCK, $in, 4096, 0 ) ){
 	say "$ipaddr:$fport => $in";
 
 }
-
