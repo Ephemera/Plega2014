@@ -3,6 +3,8 @@
 ### 최소 버전 선언
 use v5.10;
 ### like import
+use strict;
+use warnings;
 use Socket ;
 
 ### joining STDIN
